@@ -1,0 +1,31 @@
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\bin\Debug\Process.exe.config
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\bin\Debug\Process.exe
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\bin\Debug\Process.pdb
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.Form1.resources
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.Properties.Resources.resources
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.exe
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.pdb
+C:\Users\Kimberly\Documents\Semestre VI\Sistemas Operativos\ProcesosAdmin\Process\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Process\Process\bin\Debug\Process.exe.config
+E:\Process\Process\obj\Debug\Process.exe
+E:\Process\Process\obj\Debug\Process.pdb
+E:\Process\Process\bin\Debug\Process.exe
+E:\Process\Process\bin\Debug\Process.pdb
+E:\Process\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+E:\Process\Process\obj\Debug\Process.Form1.resources
+E:\Process\Process\obj\Debug\Process.Properties.Resources.resources
+E:\Process\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Process\Process\bin\Debug\Process.exe.config
+C:\Users\ACER\Desktop\Process\Process\obj\Debug\Process.exe
+C:\Users\ACER\Desktop\Process\Process\obj\Debug\Process.pdb
+C:\Users\JEFF\Downloads\Process\Process\bin\Debug\Process.exe.config
+C:\Users\JEFF\Downloads\Process\Process\bin\Debug\Process.exe
+C:\Users\JEFF\Downloads\Process\Process\bin\Debug\Process.pdb
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.csproj.AssemblyReference.cache
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.Form1.resources
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.Properties.Resources.resources
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.csproj.GenerateResource.cache
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.csproj.CoreCompileInputs.cache
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.exe
+C:\Users\JEFF\Downloads\Process\Process\obj\Debug\Process.pdb
