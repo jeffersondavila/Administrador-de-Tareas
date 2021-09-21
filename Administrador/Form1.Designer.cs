@@ -58,7 +58,7 @@
             this.button1.Cursor = System.Windows.Forms.Cursors.AppStarting;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(662, 80);
+            this.button1.Location = new System.Drawing.Point(662, 150);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(134, 45);
             this.button1.TabIndex = 2;
@@ -70,11 +70,11 @@
             // 
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(662, 151);
+            this.button2.Location = new System.Drawing.Point(662, 80);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(134, 45);
             this.button2.TabIndex = 3;
-            this.button2.Text = "Finalizar Proceso";
+            this.button2.Text = "Finalizar Tarea";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -98,12 +98,13 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(273, 48);
+            this.label2.Location = new System.Drawing.Point(254, 48);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(342, 13);
             this.label2.TabIndex = 6;
             this.label2.Text = "ID                 Direccion Fisica                Direccion Virtual             " +
     "    CPU";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Form1
             // 

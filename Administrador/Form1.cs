@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Process
@@ -15,10 +8,10 @@ namespace Process
         public Form1()
         {
             InitializeComponent();
-            UpdateProcessList();
+            ActualizarLista();
         }
 
-        private void UpdateProcessList()
+        private void ActualizarLista()
         {
             list1.Items.Clear();
             list2.Items.Clear();
@@ -48,15 +41,19 @@ namespace Process
             }
             catch(Exception x)
             {
-                MessageBox.Show("Debe seleccionar proceso a matar");
+                MessageBox.Show("Debe seleccionar proceso para finalizar");
             }
-          //  total.Text = "Total de procesos: " + list1.Items.Count.ToString();
-            UpdateProcessList();
+            ActualizarLista();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            UpdateProcessList();
+            ActualizarLista();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

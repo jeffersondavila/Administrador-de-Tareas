@@ -1,0 +1,10 @@
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\bin\Debug\Process.exe.config
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\bin\Debug\Process.exe
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\bin\Debug\Process.pdb
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Administrador.csproj.AssemblyReference.cache
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Process.Form1.resources
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Process.Properties.Resources.resources
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Administrador.csproj.GenerateResource.cache
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Administrador.csproj.CoreCompileInputs.cache
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Process.exe
+C:\Users\JEFF\Desktop\Administrador-de-Tareas\Administrador\obj\Debug\Process.pdb
